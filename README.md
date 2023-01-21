@@ -1,2 +1,2 @@
 # Born2beroot
-Born2beroot - OK 125% (bonus included)
+Born2beroot - OK 125% (Bonus included)

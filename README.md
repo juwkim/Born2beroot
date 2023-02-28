@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/juwkim/Born2beroot?color=lightblue" />
-	<img alt="Code language count" src="https://img.shields.io/github/languages/count/juwkim/Born2beroot?color=yellow" />
-	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/juwkim/Born2beroot?color=blue" />
-	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/juwkim/Born2beroot?color=green" />
+	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/juwkim/Born2beroot?color=lightblue">
+	<img alt="Code language count" src="https://img.shields.io/github/languages/count/juwkim/Born2beroot?color=yellow">
+	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/juwkim/Born2beroot?color=blue">
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/juwkim/Born2beroot?color=green">
 </p>
 
 <h3 align="center">
